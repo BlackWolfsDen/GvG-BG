@@ -1,4 +1,4 @@
 GvG-BG
 ======
 
-who made this .. i would like to know :D ty
+made by mathman. stored here for disection to learn how2 GvG in C++
